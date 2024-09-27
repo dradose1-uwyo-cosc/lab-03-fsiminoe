@@ -39,7 +39,7 @@ print(states)
 del states[3]
 print(states)
 #Remove Texas using its value, print the list
-del states[2]
+states.remove("Texas")
 print(states)
 print("Part Three----------------------------------------------------------------------")
 #Temporarily sort your list, print it both sorted and unsorted 
