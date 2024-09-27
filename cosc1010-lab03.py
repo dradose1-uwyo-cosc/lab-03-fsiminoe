@@ -7,7 +7,7 @@
 # Complete all sections of this assignment 
 
 
-print("Part ")
+print("Part One ------------------------------------------------------------------")
 states = ["Wyoming", "Colorado","Montana"]
 #We are going to start with the basics. Declare a list  states that contains the elements: Wyoming, Colorado, Montana in that order 
 #Note this is the ONLY point where you need to declare the states list
@@ -21,6 +21,8 @@ print(states[0])
 print(states[-1])
 
 #Using an F-string to access the first and second element print the string "COLORADO is south of WYOMING", matching the casing provided
+message = f"{states[1]} is south of {states[0]}"
+print(message)
 print(states[1],"is south of",states[0])
 
 print("Part Two------------------------------------------------------------------------")
