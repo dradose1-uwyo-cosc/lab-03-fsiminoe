@@ -2,10 +2,7 @@
 # UWYO COSC 1010
 # 9/29/24
 # Lab 03 
-# Lab Section: 
-# This is your second lab section. It will primarily be based on the Introducing Lists lecture, reference it if you need
-# Complete all sections of this assignment 
-
+# Lab Section: 13
 
 print("Part One ------------------------------------------------------------------")
 states = ["Wyoming", "Colorado","Montana"]
